@@ -10,7 +10,17 @@ Users can search based on any of these five factors at a time as they pursue the
 2.	Results: 
 The webpage search functions support user inputs and show examples for the formatting for entering the date, state and country abbreviations. 
 
+![html-1](https://user-images.githubusercontent.com/119453505/231322570-5ffd9ade-af6c-491e-9e75-b9e96575bba9.png)
+
 Once there has been information entered into any of these text boxes the user needs to only press enter on their keyboard in order to finalize the search and generate results.
+
+![html-2](https://user-images.githubusercontent.com/119453505/231322604-39b885a6-4568-4605-bfa5-b9690ba447ef.png)
+
+This image is an example of a user searching based on a specific date.
+
+![html-3](https://user-images.githubusercontent.com/119453505/231322681-b2ba89d1-af97-4cbd-ab29-8a8c7e9bcb7a.png)
+
+This is an example of a search using a location's city name.
 
 3.	Potential for further development:
 One drawback which could be improved on in further version of this website would be to generate a message that tells a user there is no information if their search criteria has nothing to display.
