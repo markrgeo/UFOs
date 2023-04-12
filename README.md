@@ -2,6 +2,8 @@
 Module 12 Work and Challenge Assignment.
 Coding Language: JavaScript
 
+HTML file deployed to GitHub at: https://markrgeo.github.io/UFOs_Challenge_html/
+
 1.	Overview of Project:
 
 This project was intended to create a webpage that would allow visitors to filter through a data set of UFO sightings based on numerous different criteria. The page allows for filtering on date, the locations within city, state, and country, and finally to search on the shape of the UFO itself.
